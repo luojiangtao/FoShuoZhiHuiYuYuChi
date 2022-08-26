@@ -1,3 +1,11 @@
 {
-    "title": "《佛说智慧与愚痴》罗江涛·著"
+    "title": "《佛说智慧与愚痴》罗江涛·著",
+    "plugins": [
+        "baidu-tongji"
+    ],
+    "pluginsConfig": {
+        "baidu-tongji": {
+            "siteid": "5229e82bcff581a8b02462d2de84f52d"
+        }
+    }
 }
